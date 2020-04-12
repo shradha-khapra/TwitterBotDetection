@@ -6,4 +6,9 @@ API documentation for GET users/show (https://developer.twitter.com/en/docs/acco
 
 User Object [Tweet Objects] (https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/user-object) : The User object contains Twitter User account metadata that describes the Twitter User referenced. Users can author Tweets, Retweet, quote other Users Tweets, reply to Tweets, follow Users, be @mentioned in Tweets and can be grouped into lists.
 
- 
+Tweet Scraping :
+
+https://pypi.org/project/GetOldTweets3/
+
+https://github.com/5hirish/tweet_scrapper/blob/master/USAGE.md
+
