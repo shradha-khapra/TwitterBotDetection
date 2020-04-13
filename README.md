@@ -7,6 +7,7 @@
 #User Object [Tweet Objects] : https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/user-object
 
 #Twitter python API reference (Tweepy) : http://docs.tweepy.org/en/latest/api.html
+#Twitter Python API official : https://python-twitter.readthedocs.io/en/latest/twitter.html
 
 #Tweet Scraping : https://pypi.org/project/GetOldTweets3/
 
