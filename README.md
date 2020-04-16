@@ -12,6 +12,8 @@
 
 #Entities Object : https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/entities-object
 
+Python Twitter Tools : https://github.com/sixohsix/twitter/blob/master/twitter/api.py
+
 #Twitter Python API official : https://python-twitter.readthedocs.io/en/latest/twitter.html
 
 #Twitter python API reference (Tweepy) : http://docs.tweepy.org/en/latest/api.html
