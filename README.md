@@ -13,3 +13,15 @@
 #Tweet Scraping : https://pypi.org/project/GetOldTweets3/
 #Unused scraper : https://github.com/5hirish/tweet_scrapper/blob/master/USAGE.md
 
+#Training data : https://botometer.iuni.iu.edu/bot-repository/datasets.html
+
+
+## FILES
+
+1. Content_Data.csv - content features file
+2. Graph_Data.csv - graph features file
+3. Training_Data.csv - final, merged features for training the model
+4. MergingTrainingData (py) - code used to merge features
+5. RVMTrainingModel (py) - code for training the model, training model used : RVM with a linear kernel, testing accuracy : 81.25%
+
+
